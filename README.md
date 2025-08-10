@@ -101,7 +101,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aaqeb11/Aaqeb11/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Aaqeb11/Aaqeb11/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
